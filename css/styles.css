@@ -526,6 +526,10 @@ img {
     border-radius: 15px;
 }
 
+.sidebar-ad-img-tall {
+    height: 553px;
+}
+
 /* SITE-FOOTER */
 
 .site-footer {
